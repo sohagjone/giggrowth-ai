@@ -1,0 +1,886 @@
+{
+ "meta": {
+  "username": "sohagjone",
+  "captured_at": "2026-11-14T06:34:00Z",
+  "source": "Fiverr MCP (https://mcp.fiverr.com/mcp) via tools get_seller_profile, list_seller_gigs, get_seller_reviews_summary, list_seller_reviews, find_freelancers",
+  "notes": "Snapshot captured on 2026-11-14. Reviews: newest 50 of 68 (comments abbreviated, reviewer usernames removed). Competitor sellers came from one find_freelancers call with the brief 'n8n workflow automation developer to extract data from PDF invoices into Google Sheets'."
+ },
+ "profile": {
+  "username": "sohagjone",
+  "display_name": "Md Al Mamun Sohag",
+  "country": "Bangladesh",
+  "country_code": "BD",
+  "languages": [
+   {
+    "code": "EN",
+    "level": "NATIVE_OR_BILINGUAL"
+   },
+   {
+    "code": "BN",
+    "level": "NATIVE_OR_BILINGUAL"
+   },
+   {
+    "code": "HI",
+    "level": "CONVERSATIONAL"
+   },
+   {
+    "code": "UR",
+    "level": "CONVERSATIONAL"
+   }
+  ],
+  "title": "n8n Automation Developer, API Integration, Workflow Automation",
+  "description": "I help businesses save time by building practical n8n workflow automation solutions. My services include PDF invoice and receipt processing, data extraction, Google Sheets automation, API integration, webhook setup, email notifications, and business process automation. I focus on understanding client requirements, creating customized workflows, testing automation, and providing clear setup instructions. My goal is to reduce repetitive tasks and make everyday business operations more efficient.",
+  "role": null,
+  "level": null,
+  "is_pro": false,
+  "is_highly_responsive": false,
+  "is_on_vacation": false,
+  "response_time_minutes": 0,
+  "rating": {
+   "score": 4.5,
+   "count": 68
+  },
+  "starting_price": {
+   "amount": "5.00",
+   "currency": "USD"
+  },
+  "hourly_rate_cents": null,
+  "avatar_url": "https://fiverr-res.cloudinary.com/image/upload/f_auto,q_auto,t_profile_original/v1/attachments/profile/photo/b870ab0d1464a956b44a3a2e02cf819e-1595453209910/2072f1dc-341f-491b-bab4-f7b71ba754db.jpg"
+ },
+ "gigs": [
+  {
+   "description": {
+    "original": "<p>Welcome to my gig! Are you struggling with a frustrating WordPress bug that's affecting your website's functionality? Look no further! I specialize in providing prompt and reliable bug fixing services for WordPress websites.</p><p>Here's what you can expect from this gig:</p><ul><li>Fast Bug Resolution: I understand the importance of a bug-free website. I will prioritize your bug fix and ensure it's resolved within 24 hours, minimizing any disruption to your online presence.</li><li>Thorough Bug Diagnosis: I will meticulously analyze and diagnose the bug to identify the underlying issue. This allows me to implement an effective solution that addresses the root cause and prevents future occurrences.</li></ul><p><br></p><p>Why choose me?</p><ul><li>Extensive experience in WordPress bug fixing and development.</li><li>Strong proficiency in PHP, HTML, CSS, and JavaScript.</li><li>Attention to detail and a commitment to delivering high-quality bug fixes.</li><li>Excellent problem-solving skills and a client-focused approach.</li></ul><p><br></p><p>I am dedicated to resolving your WordPress bug quickly and effectively. Let's discuss your bug and get started on fixing it within 24 hours.</p><p><br></p><p>Order now and say goodbye to those pesky bugs!</p>"
+   },
+   "packages": [
+    {
+     "type": "BASIC",
+     "price": {
+      "amount": "20.00",
+      "currency": "USD"
+     },
+     "localized_title": {
+      "original": "Gold"
+     },
+     "localized_description": {
+      "original": "One small issue fix"
+     }
+    },
+    {
+     "type": "STANDARD",
+     "price": {
+      "amount": "40.00",
+      "currency": "USD"
+     },
+     "localized_title": {
+      "original": "Platinum"
+     },
+     "localized_description": {
+      "original": "2 issues + plugins updates"
+     }
+    },
+    {
+     "type": "PREMIUM",
+     "price": {
+      "amount": "80.00",
+      "currency": "USD"
+     },
+     "localized_title": {
+      "original": "Diamond"
+     },
+     "localized_description": {
+      "original": "Standard Pack + Performance & Speed Optimization"
+     }
+    }
+   ],
+   "preview_url": "https://fiverr-res.cloudinary.com/t_medium7_x2,q_auto,f_auto/gigs/172940249/original/b80f863a3137c52af141f62f3394379e056d5e50.png",
+   "slug": "fix-your-wp-plugin-and-woocommerce-store-website-issues-or-errors"
+  },
+  {
+   "description": {
+    "original": "<p>Welcome to my gig! Are you in need of a professional PHP framework developer to develop your website or web application? Look no further! I specialize in creating customized solutions using PHP frameworks.</p><p>What can you expect from this gig?</p><ul><li>Custom Website Development: I will develop a visually appealing and functional website tailored to your specific requirements. Whether it's a personal blog, corporate website, or e-commerce platform, I can create a solution that meets your needs.</li><li>Web Application Development: If you need a robust and scalable web application, I can build it for you using PHP frameworks. From user authentication and data management to API integration and advanced features, I can develop a powerful web application that drives your business forward.</li></ul><p><br></p><p>Why choose me?</p><ul><li>In-depth knowledge of PHP, HTML, CSS, and JavaScript.</li><li>Attention to detail and commitment to delivering high-quality solutions.</li><li>Strong problem-solving and communication skills.</li><li>Timely delivery and excellent customer support.</li></ul><p>I am dedicated to providing top-notch website and web application development services using PHP frameworks. </p><p><br></p><p>Order now and let's create a powerful online presence for your business!</p>"
+   },
+   "packages": [
+    {
+     "type": "BASIC",
+     "price": {
+      "amount": "50.00",
+      "currency": "USD"
+     },
+     "localized_title": {
+      "original": "Let's get started"
+     },
+     "localized_description": {
+      "original": "I recommend using this gig if you have very specific changes to your website. This includes 3 hours."
+     }
+    },
+    {
+     "type": "STANDARD",
+     "price": {
+      "amount": "100.00",
+      "currency": "USD"
+     },
+     "localized_title": {
+      "original": "Continuous Development"
+     },
+     "localized_description": {
+      "original": "This gig includes 6 hours of work and I recommend it to finish development of a feature."
+     }
+    },
+    {
+     "type": "PREMIUM",
+     "price": {
+      "amount": "200.00",
+      "currency": "USD"
+     },
+     "localized_title": {
+      "original": "Full Stack"
+     },
+     "localized_description": {
+      "original": "This gig includes 10 hours of work and can be allocated as you see fit."
+     }
+    }
+   ],
+   "preview_url": "https://fiverr-res.cloudinary.com/t_medium7_x2,q_auto,f_auto/gigs/119854827/original/d1d722fff9ac2e5344f28e925fc1f98821e2e42c.png",
+   "slug": "create-secure-complete-website-in-php-and-mysql-with-codeigniter-web-framwork"
+  },
+  {
+   "description": {
+    "original": "<p><strong>Are you looking to transform your static HTML website into a dynamic and user-friendly WordPress site? Look no further! I offer expert HTML to WordPress conversion services that will breathe new life into your website.</strong></p><p><br></p><p><strong><u>What I Provide:</u></strong></p><p><br></p><p><strong>-&gt;Seamless HTML to WP Conversion</strong></p><p><strong>-&gt;Pixel-Perfect Design Integration</strong></p><p><strong>-&gt;Responsive and Mobile-Friendly Results</strong></p><p><strong>-&gt;Retain SEO Ranking and URL Structure</strong></p><p><strong>-&gt;Plugin Integration for Added Functionality</strong></p><p><strong>-&gt;Cross-Browser Compatibility</strong></p><p><strong>-&gt;Speed Optimization for Faster Loading</strong></p><p><strong>-&gt;Training on WP Dashboard</strong></p><p><strong>-&gt;100% Satisfaction Guarantee</strong></p><p><br></p><p><strong><u>Why Choose Me:</u></strong></p><p><br></p><p><strong>With 7 years of experience in web development, I have honed my skills to deliver top-notch WordPress websites. I pay attention to detail, ensuring your site retains its original design while gaining the benefits of WordPress's powerful CMS capabilities.</strong></p><p><br></p><p><strong>Let's Collaborate:</strong></p><p><br></p><p><strong>Your website deserves a WordPress makeover! Contact me today, and let's discuss how I can transform your HTML site into a dynamic and easy-to-manage WordPress website. Elevate your online presence now!</strong></p>"
+   },
+   "packages": [
+    {
+     "type": "BASIC",
+     "price": {
+      "amount": "80.00",
+      "currency": "USD"
+     },
+     "localized_title": {
+      "original": "HTML to WP - Custom Template"
+     },
+     "localized_description": {
+      "original": "Convert  upto 5 page of html Website to WordPress Website."
+     }
+    },
+    {
+     "type": "STANDARD",
+     "price": {
+      "amount": "150.00",
+      "currency": "USD"
+     },
+     "localized_title": {
+      "original": "HTML to WP - Custom Theme"
+     },
+     "localized_description": {
+      "original": "Convert upto 10 pages of html Website to WordPress Website."
+     }
+    },
+    {
+     "type": "PREMIUM",
+     "price": {
+      "amount": "250.00",
+      "currency": "USD"
+     },
+     "localized_title": {
+      "original": "Full Featured Custom Theme"
+     },
+     "localized_description": {
+      "original": "Convert upto 15 pages of Website to WordPress Website."
+     }
+    }
+   ],
+   "preview_url": "https://fiverr-res.cloudinary.com/video/upload/f_auto,q_auto,t_medium5/icqjuheuxpj3smxtqxes.png",
+   "slug": "convert-html-to-wordpress"
+  },
+  {
+   "description": {
+    "original": "<p>Welcome to my gig! Need professional WordPress Plugin &amp; WooCommerce Store development? Look no further! I specialize in creating custom solutions to enhance your website.</p><p>Services I offer:</p><ol><li>Custom WordPress Plugin Development: I'll create plugins tailored to your needs, extending functionality and automating tasks.</li><li>WooCommerce Store Customization: I'll customize your store's design, layout, and features to create an exceptional shopping experience.</li><li>Plugin Installation &amp; Configuration: I'll install and configure plugins, ensuring seamless integration with your WordPress site.</li><li>Troubleshooting &amp; Support: I'll resolve any issues you face, ensuring your website runs smoothly.</li></ol><p>Why choose me?</p><ul><li>Years of experience in WordPress Plugin &amp; WooCommerce development.</li><li>Expertise in PHP, JavaScript, and WordPress best practices.</li><li>Attention to detail and high-quality solutions.</li><li>Excellent communication and client-focused approach.</li><li>Timely delivery and responsive support.</li></ul><p><br></p><p>I'm passionate about helping businesses succeed online. Let's discuss your project requirements. Contact me now to get started on your WordPress Plugin &amp; WooCommerce Store development.</p><p><br></p><p>Order now and let's enhance your website together!</p>"
+   },
+   "packages": [
+    {
+     "type": "BASIC",
+     "price": {
+      "amount": "80.00",
+      "currency": "USD"
+     },
+     "localized_title": {
+      "original": "1 to 5 pages"
+     },
+     "localized_description": {
+      "original": "WordPress Website,  Responsive Website, Contact Form, Plugins "
+     }
+    },
+    {
+     "type": "STANDARD",
+     "price": {
+      "amount": "100.00",
+      "currency": "USD"
+     },
+     "localized_title": {
+      "original": "5 to 8 pages"
+     },
+     "localized_description": {
+      "original": "Responseive Wordpress Website, Dynamic Contact Form, Social Icon,  Google Map, Unlimited Revision"
+     }
+    },
+    {
+     "type": "PREMIUM",
+     "price": {
+      "amount": "150.00",
+      "currency": "USD"
+     },
+     "localized_title": {
+      "original": "up to 15 pages"
+     },
+     "localized_description": {
+      "original": "Your PSD To Convert Wordpress, Dynamic Contact Form, Social Icon,  Google Map, Unlimited Revision"
+     }
+    }
+   ],
+   "preview_url": "https://fiverr-res.cloudinary.com/video/upload/f_auto,q_auto,so_0.0,t_medium5/ifeihmywm80ukfff4o2z.png",
+   "slug": "customize-dynamic-wordpress-website"
+  },
+  {
+   "description": {
+    "original": "<p>I specialize in building websites with Elementor and Divi Theme customize. In fact, I have Elementor Pro Divi for unlimited websites so I can install and configure that for you too, which would cost you $60 if purchased directly from them.</p><p>I've worked with various other company and individuals to design and develop their websites with Elementor and Divi theme customize Here are some of them:</p><p>https://studdybuddy.org/</p><p>https://nuaweb.com/vacm/</p><p>https://www.muscleandstrength.com/</p><p>https://raziakunj.com/</p><p>https://infosoftvalley.com/</p><p>https://nuaweb.com/vacm/</p><p>http://studdybuddy.org/</p><p><strong><u>What you will get:</u></strong> You will get a fully functional, advanced, and customization design according to your needs.</p><ul><li>&nbsp;You will be able to use it by drag and drop.</li><li>&nbsp;You will get all the options you will need to customize landing page.</li><li>&nbsp;You will be able to change everything like changing the content to their color, font size,&nbsp;&nbsp;alignment.</li><li>You will be get personal website and portfolio website</li></ul><p><br></p><p>Note: If you are looking for a custom project, please message me prior to ordering so we can discuss.</p>"
+   },
+   "packages": [
+    {
+     "type": "BASIC",
+     "price": {
+      "amount": "50.00",
+      "currency": "USD"
+     },
+     "localized_title": {
+      "original": "Eliminator & Divi Basic\r\n"
+     },
+     "localized_description": {
+      "original": "I will create a basic custom Design"
+     }
+    },
+    {
+     "type": "STANDARD",
+     "price": {
+      "amount": "100.00",
+      "currency": "USD"
+     },
+     "localized_title": {
+      "original": "Eliminator $ Divi Intermediate "
+     },
+     "localized_description": {
+      "original": "I will create a Intermediate custom Design"
+     }
+    },
+    {
+     "type": "PREMIUM",
+     "price": {
+      "amount": "200.00",
+      "currency": "USD"
+     },
+     "localized_title": {
+      "original": "Eliminator & Divi Advanced "
+     },
+     "localized_description": {
+      "original": "I will create a Advanced custom Design"
+     }
+    }
+   ],
+   "preview_url": "https://fiverr-res.cloudinary.com/video/upload/f_auto,q_auto,t_medium5/fmdavb8slaju4tbnxtnw.png",
+   "slug": "create-a-responsive-custom-elementor-page-for-wp"
+  },
+  {
+   "description": {
+    "original": "<p>I am an experienced Photoshop Editor</p><p><br></p><p>I do any kind of photo editing for the eCommerce shop. I always try to achieve customer satisfaction and good quality work.</p><p><br></p><p>For web-store owners, I introduce my additional delivery of web-ready images for any e-Commerce platform like Amazon, eBay, Shopify, etc.</p><p><br></p><p>I will provide a free mockup</p><p><br></p><p>My Services:</p><p><br></p><p><br></p><p><br></p><ul><li>Image Clipping Path ( White background, Transparent &amp; Color Background)</li><li>Image Cut out</li><li>Image Resizing &amp; Cropping</li><li>Reflection Shadow</li><li>Keep original shadow, Drop shadow</li><li>Amazon Product eBay Product background Removal&nbsp;</li><li>Color Correction</li></ul><p><br></p><p><br></p><p>\" delete background, background removal, Photoshop work, white background, enhance, photo retouching,photo editing, photo manipulation, image editing, Photoshop editing, change background, photoshopping, photo edit, face swap, edit picture, photo editing,highend,portrait,retouching,retouch,fast adobe Photoshop for hire \"</p><p><br></p><p><br></p><p><br></p><p><strong><u>Why you choose me?</u></strong></p><p><br></p><ul><li>Friendly &amp; Quick response</li><li>100% satisfaction</li><li>24/7 Hours Service&nbsp;</li><li>Fast Delivery</li><li>100% money-back guarantee...</li><li>Unlimited Revision</li></ul><p><br></p><p><br></p><p>Feel free to contact me, if you have any questions!</p><p><br></p><p>Thank you\\</p><p>sohagjone </p><p><br></p>"
+   },
+   "packages": [
+    {
+     "type": "BASIC",
+     "price": {
+      "amount": "5.00",
+      "currency": "USD"
+     },
+     "localized_title": {
+      "original": "Delete background BASIC"
+     },
+     "localized_description": {
+      "original": "Up to 5 Easy image background remove professionally Photoshop editing"
+     }
+    },
+    {
+     "type": "STANDARD",
+     "price": {
+      "amount": "10.00",
+      "currency": "USD"
+     },
+     "localized_title": {
+      "original": "Delete background STANDARD"
+     },
+     "localized_description": {
+      "original": "Up to 15 Easy image background remove professionally Photoshop editing"
+     }
+    },
+    {
+     "type": "PREMIUM",
+     "price": {
+      "amount": "15.00",
+      "currency": "USD"
+     },
+     "localized_title": {
+      "original": "Delete background PREMIUM"
+     },
+     "localized_description": {
+      "original": "Up to 30 Easy image background remove professionally Photoshop editing"
+     }
+    }
+   ],
+   "preview_url": "https://fiverr-res.cloudinary.com/t_medium7_x2,q_auto,f_auto/gigs/239500204/original/96009dc2ba0f6a8a75dcecf66e582b242e099460.jpg",
+   "slug": "do-delete-background-or-any-photoshop-work"
+  },
+  {
+   "description": {
+    "original": "<p>Need to automate PDF invoice and receipt processing?</p><p><br></p><p>I will build an n8n automation workflow to extract important information from PDF invoices and receipts and organize it automatically in Google Sheets.</p><p><br></p><p><strong>What I can automate:</strong></p><ul><li>PDF invoice and receipt data extraction</li><li>Invoice number, date, vendor name and total amount</li><li>Automatic Google Sheets data entry</li><li>Basic data validation</li><li>Duplicate invoice checking (Premium package)</li><li>Email notifications (Premium package)</li></ul><p><br></p><p><strong>Why choose my service?</strong></p><ul><li>Customized n8n workflow</li><li>Organized and accurate data handling</li><li>Workflow testing before delivery</li><li>Clear setup instructions</li></ul><p><br></p><p>I offer Basic, Standard and Premium packages to match your requirements.</p><p><strong>Please contact me before ordering</strong> to discuss your PDF format, required fields and preferred integrations.</p><p><br></p><p>Note: Scanned PDFs may require an additional OCR service. Third-party API or subscription fees are not included.</p>"
+   },
+   "packages": [
+    {
+     "type": "BASIC",
+     "price": {
+      "amount": "10.00",
+      "currency": "USD"
+     },
+     "localized_title": {
+      "original": "Starter PDF Automation"
+     },
+     "localized_description": {
+      "original": "Extract 5 fields from 1 PDF format and send data to Google Sheets. Test 3 PDFs."
+     }
+    },
+    {
+     "type": "STANDARD",
+     "price": {
+      "amount": "30.00",
+      "currency": "USD"
+     },
+     "localized_title": {
+      "original": "Invoice Processing"
+     },
+     "localized_description": {
+      "original": "Extract 10 fields from 2 PDF formats with data validation. Test 10 PDFs."
+     }
+    },
+    {
+     "type": "PREMIUM",
+     "price": {
+      "amount": "50.00",
+      "currency": "USD"
+     },
+     "localized_title": {
+      "original": "Advanced PDF Workflow"
+     },
+     "localized_description": {
+      "original": "Extract 15 fields from 3 PDF formats with duplicate checking. Test 20 PDFs."
+     }
+    }
+   ],
+   "preview_url": "https://fiverr-res.cloudinary.com/video/upload/f_auto,q_auto,t_medium5/v1/video-attachments/gig/videos/f64188184a83d679598efe3790ae23e0-1793517889313/n8n_pdf_automation_video.png",
+   "slug": "automate-pdf-invoice-and-receipt-processing-using-n8n"
+  },
+  {
+   "description": {
+    "original": "<p>I will build custom WordPress workflow automation using n8n to help you save time, reduce manual work, and manage your business more efficiently.</p><p><br></p><p>I can connect your WordPress website with different apps and services to automate repetitive tasks and create smooth workflows.</p><p><br></p><p><strong>My services include:</strong></p><ul><li>WordPress form submission automation</li><li>Automatic email notifications</li><li>WordPress to Google Sheets integration</li><li>Contact and lead management</li><li>WooCommerce order notifications</li><li>CRM integration</li><li>AI-powered workflow automation</li><li>API and webhook integration</li><li>Automated data transfer and reporting</li><li>Custom n8n workflow setup</li></ul><p><br></p><p><strong>Why work with me?</strong></p><ul><li>Custom workflows based on your needs</li><li>Clean and organized automation</li><li>Proper testing before delivery</li><li>Clear communication</li><li>Support after delivery</li><li><br></li></ul><p>Whether you need a simple WordPress automation or a complete business workflow, I will help you build a reliable solution using n8n.</p><p><strong>Message me before ordering</strong> so we can discuss your requirements and choose the right solution.</p>"
+   },
+   "packages": [
+    {
+     "type": "BASIC",
+     "price": {
+      "amount": "25.00",
+      "currency": "USD"
+     },
+     "localized_title": {
+      "original": "Simple Workflow"
+     },
+     "localized_description": {
+      "original": "1 workflow, 1 integration, 3-day delivery, 1 revision."
+     }
+    },
+    {
+     "type": "STANDARD",
+     "price": {
+      "amount": "60.00",
+      "currency": "USD"
+     },
+     "localized_title": {
+      "original": "Business Automation"
+     },
+     "localized_description": {
+      "original": "Up to 2 workflows, 2 integrations, 5-day delivery, 2 revisions."
+     }
+    },
+    {
+     "type": "PREMIUM",
+     "price": {
+      "amount": "100.00",
+      "currency": "USD"
+     },
+     "localized_title": {
+      "original": "Advanced Workflow\r\n"
+     },
+     "localized_description": {
+      "original": "Up to 3 workflows, 3 integrations, 7-day delivery, 2 revisions."
+     }
+    }
+   ],
+   "preview_url": "https://fiverr-res.cloudinary.com/video/upload/f_auto,q_auto,t_medium5/v1/video-attachments/gig/videos/2094689a1b0a5239a805873535bf4467-1793553554443/wordpress_n8n_fiverr_promo.png",
+   "slug": "automate-wordpress-forms-and-workflows-using-n8n"
+  }
+ ],
+ "reviews_summary": {
+  "user_buying_reviews": {
+   "average_valuation": 4.54,
+   "communication_valuation_average": 4.55555534362793,
+   "recommend_valuation_average": 4.5,
+   "service_valuation_average": 4.541666507720947,
+   "total_reviews_count": 68
+  }
+ },
+ "reviews": [
+  {
+   "comment": "A Sohag truly shines in website development, showcasing unmatched PROFESSIONALISM and incredible attention to detail. Collaborating with him was a breeze thanks to his quick responsiveness, politeness, and timely delivery.",
+   "score": 5,
+   "created_at": "2025-07-09T00:00:00.000Z",
+   "reviewer_country_code": "ES"
+  },
+  {
+   "comment": "Great job on create me a website. We work with you again soon on new project.",
+   "score": 5,
+   "created_at": "2024-07-06T00:00:00.000Z",
+   "reviewer_country_code": "US"
+  },
+  {
+   "comment": "great buyer",
+   "score": 4,
+   "created_at": "2024-05-27T00:00:00.000Z",
+   "reviewer_country_code": "FR"
+  },
+  {
+   "comment": "Quick and easy communication!",
+   "score": 3.7,
+   "created_at": "2024-05-22T00:00:00.000Z",
+   "reviewer_country_code": "BE"
+  },
+  {
+   "comment": "Did the basics ok, but couldn't do anything more than the basics.",
+   "score": 3.7,
+   "created_at": "2023-12-29T00:00:00.000Z",
+   "reviewer_country_code": "US"
+  },
+  {
+   "comment": "really good",
+   "score": 5,
+   "created_at": "2023-11-28T00:00:00.000Z",
+   "reviewer_country_code": "DE"
+  },
+  {
+   "comment": "Very good job so far! Will work with seller again on this project, as they work very fast to deliver project on time.",
+   "score": 5,
+   "created_at": "2023-10-02T00:00:00.000Z",
+   "reviewer_country_code": "US"
+  },
+  {
+   "comment": "Was amazing working on a custom Wordpress plugin request. Very happy with the turnover time and would love to work with him again.",
+   "score": 5,
+   "created_at": "2023-08-14T00:00:00.000Z",
+   "reviewer_country_code": "US"
+  },
+  {
+   "comment": "very good,long term working with him",
+   "score": 5,
+   "created_at": "2023-06-02T00:00:00.000Z",
+   "reviewer_country_code": "MY"
+  },
+  {
+   "comment": "good and best ,always helpful",
+   "score": 5,
+   "created_at": "2023-06-02T00:00:00.000Z",
+   "reviewer_country_code": "MY"
+  },
+  {
+   "comment": "The website development work was 5 stars! Excellent communication on a daily basis. Thank you!",
+   "score": 5,
+   "created_at": "2023-05-31T00:00:00.000Z",
+   "reviewer_country_code": "CA"
+  },
+  {
+   "comment": "seller is good and helpful alwayys",
+   "score": 5,
+   "created_at": "2023-05-03T00:00:00.000Z",
+   "reviewer_country_code": "MY"
+  },
+  {
+   "comment": "I am very happy with the project. The work was well thought out, recommendations provided, great and frequent communication...",
+   "score": 5,
+   "created_at": "2023-04-23T00:00:00.000Z",
+   "reviewer_country_code": "CA"
+  },
+  {
+   "comment": "Great work. Excellent Communication. Positive and helpful feedback. The project was exceptionally well designed and implemented.",
+   "score": 5,
+   "created_at": "2023-04-23T00:00:00.000Z",
+   "reviewer_country_code": "CA"
+  },
+  {
+   "comment": "This seller was supposed to finish this project in 10 days. It took them 5 weeks. I did not receive an operational site (500 errors). Communication was poor unless the seller was asking for extensions...",
+   "score": 1,
+   "created_at": "2023-04-04T00:00:00.000Z",
+   "reviewer_country_code": "US"
+  },
+  {
+   "comment": "too bad experience....I wasted my 2 month",
+   "score": 1,
+   "created_at": "2023-04-04T00:00:00.000Z",
+   "reviewer_country_code": "IN"
+  },
+  {
+   "comment": "OK thanks ans nice",
+   "score": 5,
+   "created_at": "2023-03-23T00:00:00.000Z",
+   "reviewer_country_code": "MY"
+  },
+  {
+   "comment": "Very good work",
+   "score": 5,
+   "created_at": "2023-02-24T00:00:00.000Z",
+   "reviewer_country_code": "CY"
+  },
+  {
+   "comment": "Ok thanks",
+   "score": 5,
+   "created_at": "2023-02-05T00:00:00.000Z",
+   "reviewer_country_code": "MY"
+  },
+  {
+   "comment": "perfect !!",
+   "score": 5,
+   "created_at": "2023-01-29T00:00:00.000Z",
+   "reviewer_country_code": "MY"
+  },
+  {
+   "comment": "It was really a good experience working with you. I really recommend this seller for any web development related work. As per me no one can give such work in such a less rate.",
+   "score": 5,
+   "created_at": "2023-01-15T00:00:00.000Z",
+   "reviewer_country_code": "IN"
+  },
+  {
+   "comment": "good communication",
+   "score": 5,
+   "created_at": "2022-12-31T00:00:00.000Z",
+   "reviewer_country_code": "US"
+  },
+  {
+   "comment": "seller is very good in terms of listening to your requirement and working on that without any frustration.",
+   "score": 5,
+   "created_at": "2022-11-30T00:00:00.000Z",
+   "reviewer_country_code": "IN"
+  },
+  {
+   "comment": "It was a good experience working with the seller. recommended seller",
+   "score": 5,
+   "created_at": "2022-11-10T00:00:00.000Z",
+   "reviewer_country_code": "IN"
+  },
+  {
+   "comment": "thanks dear it was a good and quick work. I really recommend for any types of website desining related work",
+   "score": 5,
+   "created_at": "2022-11-05T00:00:00.000Z",
+   "reviewer_country_code": "IN"
+  },
+  {
+   "comment": "it was good experience working with the seller",
+   "score": 5,
+   "created_at": "2022-11-03T00:00:00.000Z",
+   "reviewer_country_code": "IN"
+  },
+  {
+   "comment": "one of the best professional programmers i know on fiver, 100% recommendation",
+   "score": 5,
+   "created_at": "2022-08-12T00:00:00.000Z",
+   "reviewer_country_code": "DE"
+  },
+  {
+   "comment": "It was a nice experience",
+   "score": 3.3,
+   "created_at": "2022-07-06T00:00:00.000Z",
+   "reviewer_country_code": ""
+  },
+  {
+   "comment": "outstanding experience",
+   "score": 5,
+   "created_at": "2022-06-20T00:00:00.000Z",
+   "reviewer_country_code": "UG"
+  },
+  {
+   "comment": "a man really worth working for. one of the most understanding",
+   "score": 5,
+   "created_at": "2022-06-18T00:00:00.000Z",
+   "reviewer_country_code": "AZ"
+  },
+  {
+   "comment": "Professional and did exactly what I wanted sure will get back again for more works",
+   "score": 5,
+   "created_at": "2022-05-19T00:00:00.000Z",
+   "reviewer_country_code": "EG"
+  },
+  {
+   "comment": "Reliable, always there",
+   "score": 5,
+   "created_at": "2022-05-07T00:00:00.000Z",
+   "reviewer_country_code": "US"
+  },
+  {
+   "comment": "outstanding experience",
+   "score": 5,
+   "created_at": "2022-04-05T00:00:00.000Z",
+   "reviewer_country_code": "UG"
+  },
+  {
+   "comment": "thank you very much",
+   "score": 5,
+   "created_at": "2022-02-08T00:00:00.000Z",
+   "reviewer_country_code": "UG"
+  },
+  {
+   "comment": "Great service. Use more times . Highly recommend. Thank you so much",
+   "score": 5,
+   "created_at": "2022-01-22T00:00:00.000Z",
+   "reviewer_country_code": "BD"
+  },
+  {
+   "comment": "thank you very much",
+   "score": 5,
+   "created_at": "2021-11-20T00:00:00.000Z",
+   "reviewer_country_code": "UG"
+  },
+  {
+   "comment": "This guy is spectacular. He understands quickly, has great skills, and delivers excellent work using the best tools.",
+   "score": 5,
+   "created_at": "2021-11-18T00:00:00.000Z",
+   "reviewer_country_code": "CR"
+  },
+  {
+   "comment": "These are my guys, they work hard and do what needs to be done.",
+   "score": 5,
+   "created_at": "2021-11-13T00:00:00.000Z",
+   "reviewer_country_code": "US"
+  },
+  {
+   "comment": "Thank you once again",
+   "score": 5,
+   "created_at": "2021-10-20T00:00:00.000Z",
+   "reviewer_country_code": "UG"
+  },
+  {
+   "comment": "outstanding experience. he did all my work as i wanted it",
+   "score": 5,
+   "created_at": "2021-10-19T00:00:00.000Z",
+   "reviewer_country_code": "UG"
+  },
+  {
+   "comment": "outstanding Exprience Bro. Thanks for your great work",
+   "score": 5,
+   "created_at": "2021-10-18T00:00:00.000Z",
+   "reviewer_country_code": "UG"
+  },
+  {
+   "comment": "I continue to work with them. They do a great job",
+   "score": 5,
+   "created_at": "2021-10-12T00:00:00.000Z",
+   "reviewer_country_code": "US"
+  },
+  {
+   "comment": "the best Informatiker. Thanks alots again",
+   "score": 5,
+   "created_at": "2021-09-11T00:00:00.000Z",
+   "reviewer_country_code": "DE"
+  },
+  {
+   "comment": "great sellers, they are with you",
+   "score": 5,
+   "created_at": "2021-09-09T00:00:00.000Z",
+   "reviewer_country_code": "US"
+  },
+  {
+   "comment": "He ist one of the best Webdesigner in fiver. He ist so fast",
+   "score": 5,
+   "created_at": "2021-09-02T00:00:00.000Z",
+   "reviewer_country_code": "DE"
+  },
+  {
+   "comment": "Excellent & fast web coding. Very impressed with the service & I will definitely use him again. Highly recommended!",
+   "score": 5,
+   "created_at": "2021-08-07T00:00:00.000Z",
+   "reviewer_country_code": "GB"
+  },
+  {
+   "comment": "Vielen lieben Dank fuer zusammen Arbeit, er ist echt sehr professionell",
+   "score": 5,
+   "created_at": "2021-07-05T00:00:00.000Z",
+   "reviewer_country_code": "DE"
+  },
+  {
+   "comment": "Sohag and his team are wonderful. They work really hard for you and always try to meet your needs.",
+   "score": 5,
+   "created_at": "2021-06-30T00:00:00.000Z",
+   "reviewer_country_code": "US"
+  },
+  {
+   "comment": "Professional and quick",
+   "score": 5,
+   "created_at": "2021-06-15T00:00:00.000Z",
+   "reviewer_country_code": "NL"
+  },
+  {
+   "comment": "Sohag and his team are great. They work hard and will work with you for a very good price.",
+   "score": 5,
+   "created_at": "2021-06-09T00:00:00.000Z",
+   "reviewer_country_code": "US"
+  }
+ ],
+ "competitor_sellers": [
+  {
+   "brief": "n8n workflow automation developer to extract data from PDF invoices into Google Sheets",
+   "sellers": [
+    {
+     "url": "https://www.fiverr.com/solveonia",
+     "username": "solveonia",
+     "displayName": "Cristian Dioza",
+     "rating": {
+      "score": 4.8
+     },
+     "countryName": "Colombia",
+     "skills": [
+      "Web development",
+      "API integration",
+      "n8n",
+      "Git",
+      "RPA Developer",
+      "ai development",
+      "AI developer",
+      "Process automation",
+      "Selenium automation",
+      "Excel automation",
+      "Task automation",
+      "Python automation",
+      "Chat support",
+      "Django rest framework",
+      "Python"
+     ],
+     "completedOrdersCount": 6,
+     "responseTimeHours": 1,
+     "oneLinerTitle": "Smart solutions with AI and automation",
+     "userBuyingReviewsCount": 5
+    },
+    {
+     "url": "https://www.fiverr.com/vivekpatel99",
+     "username": "vivekpatel99",
+     "displayName": "Vivek Patel",
+     "rating": {
+      "score": 5
+     },
+     "countryName": "Austria",
+     "skills": [
+      "Web scraping",
+      "Software automation",
+      "n8n",
+      "Python",
+      "OpenCV",
+      "Docker",
+      "pandas",
+      "GitHub",
+      "Keras",
+      "Deep learning",
+      "Machine learning",
+      "OpenAI",
+      "AI developer",
+      "Python automation",
+      "ChatGPT",
+      "ai development"
+     ],
+     "completedOrdersCount": 3,
+     "responseTimeHours": 7,
+     "oneLinerTitle": "Document AI and Workflow Automation Engineer",
+     "userBuyingReviewsCount": 2
+    },
+    {
+     "url": "https://www.fiverr.com/cuntsis",
+     "username": "cuntsis",
+     "displayName": "Alejandro P.",
+     "rating": {
+      "score": 5
+     },
+     "countryName": "Spain",
+     "skills": [
+      "Chatbot development",
+      "AI developer",
+      "Google Drive",
+      "Google Sheets",
+      "API integration",
+      "Business automation"
+     ],
+     "completedOrdersCount": 2,
+     "responseTimeHours": 0,
+     "oneLinerTitle": "Automation Expert n8n API Integrations",
+     "userBuyingReviewsCount": 1
+    },
+    {
+     "url": "https://www.fiverr.com/bariraa",
+     "username": "bariraa",
+     "displayName": "Qureshi",
+     "rating": {
+      "score": 5
+     },
+     "countryName": "Pakistan",
+     "skills": [
+      "Microsoft Powerpoint",
+      "Adobe XD",
+      "Keynote presentation",
+      "Google Slides",
+      "Web design",
+      "Front-end web development",
+      "Automation engineering",
+      "React",
+      "Tailwind CSS",
+      "CSS",
+      "HTML",
+      "JavaScript ES6",
+      "TypeScript",
+      "n8n"
+     ],
+     "completedOrdersCount": 100,
+     "responseTimeHours": 1,
+     "oneLinerTitle": "Software Engineer",
+     "userBuyingReviewsCount": 67
+    },
+    {
+     "url": "https://www.fiverr.com/wpdevelop_hub",
+     "username": "wpdevelop_hub",
+     "displayName": "Abdullah",
+     "rating": {
+      "score": 5
+     },
+     "countryName": "Bangladesh",
+     "skills": [
+      "Business automation",
+      "Task automation",
+      "Google Sheets",
+      "n8n",
+      "Wordpress website design",
+      "WordPress"
+     ],
+     "completedOrdersCount": 30,
+     "responseTimeHours": 1,
+     "oneLinerTitle": "Powering business success with tailored Automated AI solutions",
+     "userBuyingReviewsCount": 23
+    }
+   ]
+  }
+ ]
+}
